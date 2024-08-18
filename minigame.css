@@ -22,17 +22,7 @@ h2 {
     margin-bottom: 20px;
 }
 
-.morse-code {
-    list-style: none;
-    padding: 0;
+h1{
+    text-align:center;
 }
 
-.morse-code li {
-    margin-bottom: 10px;
-    font-size: 18px;
-}
-
-.morse {
-    color: #f1c40f; /* Yellow color for the morse code */
-    font-family: monospace;
-}
